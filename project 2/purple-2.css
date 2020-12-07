@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+<style>
+		body {
+			background: rgb(58, 58, 58);
+			color: white;
+			font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+			margin:20px ;
+			padding:20px;}
+		header {background: purple;
+				font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+				}
+	</style>
